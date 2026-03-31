@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-31
 - Resolved deprecation warnings
+
+## 2026-03-31
+- Added healthcheck endpoint stub
+- Added inline documentation for core functions
